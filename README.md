@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@marxo6**
 - 👀 I’m interested in **website** and **application development**.
 - 🌱 I’m currently learning **Java**.
-- 💞️ I’m looking to collaborate on **websites** or **Minecraft projects**.
+- 💞️ I’m looking to collaborate on **websites** or **Discord bot projects**.
 - 📫 How to reach me
 -   **On Instagram** : moreairnorr
 
